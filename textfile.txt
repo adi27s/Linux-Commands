@@ -1,0 +1,6 @@
+sudo updatedb
+locate dmalloc.h
+
+apt search autopoint //<pkg>
+dpkg -l | grep gettext
+
